@@ -1,3 +1,6 @@
+# Hasher -  hash text input with common hashing functions
+Has any text input with SHA1, SHA256, SHA512, and MD5. This project is the result of some early dabbelings with the React framework.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
